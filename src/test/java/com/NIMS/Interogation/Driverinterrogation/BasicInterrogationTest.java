@@ -1,4 +1,4 @@
-package com.interrogation.Driverinterrogation;
+package com.NIMS.Interogation.Driverinterrogation;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

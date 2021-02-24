@@ -1,4 +1,4 @@
-package com.interrogation.Dominterrogation;
+package com.NIMS.Interogation.Dominterrogation;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

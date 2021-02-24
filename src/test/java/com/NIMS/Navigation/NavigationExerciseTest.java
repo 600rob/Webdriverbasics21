@@ -1,4 +1,4 @@
-package com.navigation;
+package com.NIMS.Navigation;
 
 import org.junit.Assert;
 import org.junit.Test;

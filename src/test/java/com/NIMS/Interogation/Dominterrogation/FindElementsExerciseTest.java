@@ -1,4 +1,4 @@
-package com.interrogation.Dominterrogation;
+package com.NIMS.Interogation.Dominterrogation;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -66,7 +66,7 @@ public class FindElementsExerciseTest {
 
         List<WebElement> paras;
         paras = (driver.findElements(By.tagName("p")));
-        assertThat("there are 16 anchors",paras.size()==41);
+        assertThat("there are 41 anchors",paras.size()==41);
 
     }
 
