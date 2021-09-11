@@ -59,7 +59,7 @@ public class NavigationExerciseTest {
     public void refreshPageTestOption2(){
         //this is the same test as above burt uses a different method of checking the data
         //Note, the number in the page title is actually the current time in seconds, so we use that to assert
-        // the time has incremented on page refresh
+        // the time has incremented on page refresh.
 
         final String pageConstant = "Refreshed Page on ";
 
