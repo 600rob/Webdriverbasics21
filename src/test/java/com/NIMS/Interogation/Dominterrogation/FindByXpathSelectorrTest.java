@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.assertEquals;
 
-public class FindBiXpathSelectorrTest {
+public class FindByXpathSelectorrTest {
 
     public static WebDriver driver;
     String TEST_URL = "https:/compendiumdev.co.uk/selenium/find_by_playground.php";
