@@ -122,7 +122,7 @@ public class ManipulateExercisesTest {
 
         List<WebElement> mulltiselections = driver.findElements(By.cssSelector("div[id='_multipleselect'] li"));
         assertEquals("correcgt number of multislections were made", 3,mulltiselections.size() );
-
+        //could add assertions on the text values of the seletced items here
     }
 
 
